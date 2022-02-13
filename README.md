@@ -6,4 +6,4 @@ HW at Deep Learning Shool (MIPT)
 3. Segmentation: https://github.com/chervovn04/DLS/blob/main/SemanticSegmentation.ipynb
 4. Auto Encoders: https://github.com/chervovn04/DLS/blob/main/AutoEncoders.ipynb
 5. GANs: https://github.com/chervovn04/DLS/blob/main/Chervov_Nikita_GAN_HW.ipynb
-
+6. Face Recognition: https://github.com/chervovn04/DLS/blob/main/Chervov_Nikita_Face_Recognition.ipynb
